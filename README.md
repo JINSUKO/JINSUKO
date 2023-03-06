@@ -1,6 +1,7 @@
 # Hi there 
 
-Front  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=appveyorJavascript&logoColor=black">
+Front
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black">
 
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
