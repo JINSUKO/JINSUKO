@@ -1,7 +1,7 @@
 # Hi there 
 
 Front
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
 
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
