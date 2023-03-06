@@ -1,6 +1,6 @@
 # Hello Developers! I'm JinSu! 🤗
 I'm currently learning Programming!   
-And, soo happy to know this new World of IT.
+And, SO HAPPY to know this new World of IT.
 
 ## 🛠 Tech Stack
 Front   
