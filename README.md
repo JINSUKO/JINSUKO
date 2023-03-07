@@ -2,6 +2,8 @@
 I'm currently learning Programming!   
 And, SO HAPPY to know this new World of IT.
 
+<img src="https://img.shields.io/badge/realwaterko@gmail.com-F7DF1E?style=flat-square&logo=Gmail&logoColor=black">
+
 ## 🛠 Tech Stack
 Front   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
