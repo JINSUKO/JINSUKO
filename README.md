@@ -17,7 +17,7 @@ Back
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
-## 🤔 Interests   
+## 🤔 I'm interested in...   
 * 💻Full-stack Programming
 * 🖥️Back-end Development 
 * 🌱Peaceful World
