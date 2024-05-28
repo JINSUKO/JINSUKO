@@ -1,6 +1,6 @@
 # Hello Developers! I'm JinSu! 🤗
 I'm currently learning Programming!   
-And, SO HAPPY to know this new World of IT.
+And, SO HAPPY to participate in the IT!
 
 <img src="https://img.shields.io/badge/rhwkwk789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black">
 
