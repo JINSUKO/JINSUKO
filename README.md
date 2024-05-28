@@ -20,7 +20,7 @@ Back
 
 ## 🤔 I'm interested in...   
 * 🖥️Back-end Development
-* Java Development
+* <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white"/> Development
 * 🌱Peaceful World
 
 <!--
