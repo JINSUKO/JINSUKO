@@ -19,7 +19,6 @@ Back
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## 🤔 I'm interested in...   
-* 💻Full-stack Programming
 * 🖥️Back-end Development 
 * 🌱Peaceful World
 
