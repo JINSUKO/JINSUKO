@@ -4,7 +4,7 @@ And, SO HAPPY to know this new World of IT.
 
 <img src="https://img.shields.io/badge/rhwkwk789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black">
 
-## 🛠 Tech Stack
+## 🛠 studying, trying Tech Stacks~
 Front   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black">
@@ -19,7 +19,8 @@ Back
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## 🤔 I'm interested in...   
-* 🖥️Back-end Development 
+* 🖥️Back-end Development
+* Java Development
 * 🌱Peaceful World
 
 <!--
