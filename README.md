@@ -4,7 +4,7 @@ And, SO HAPPY to participate in the IT!
 
 <img src="https://img.shields.io/badge/rhwkwk789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black">
 
-## 🛠 studying, trying Tech Stacks~
+## 🛠 Learning Tech Stacks
 Front   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black">
