@@ -34,17 +34,7 @@ Back
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?site=cn)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?animation=false)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?animation=true)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?theme=forest&font=Noto%20Sans%20Gurmukhi&ext=heatmap)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/jinsuko/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/jinsuko/)
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
