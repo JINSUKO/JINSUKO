@@ -32,7 +32,18 @@ Back
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?site=cn)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?animation=false)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?animation=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?theme=forest&font=Noto%20Sans%20Gurmukhi&ext=heatmap)
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
