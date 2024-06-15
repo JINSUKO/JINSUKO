@@ -1,5 +1,5 @@
 # Hello Developers! I'm JinSu! 🤗
-I'm currently learning Programming! 🌱
+I'm currently learning Programming! 🌱  <br>
 And, SO PLEASED to participate in the IT!
 
 <img src="https://img.shields.io/badge/rhwkwk789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black">
@@ -33,7 +33,7 @@ Back
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
-## 💬 Been improving solving abilites!
+## 🌱 🔥🔥Been improving solving abilites!
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/jinsuko/)
