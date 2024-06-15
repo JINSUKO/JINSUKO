@@ -25,14 +25,13 @@ Back
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> Development
 * 🌱Peaceful World
 
-![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&hide=contribs,prs)
+![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show_icons=true&theme=codeSTACKr)
 
-![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=compact)
 
-![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show_icons=true&theme=radical)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
