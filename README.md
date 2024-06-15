@@ -44,6 +44,7 @@ Back
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?animation=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?theme=forest&font=Noto%20Sans%20Gurmukhi&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
