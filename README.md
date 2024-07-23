@@ -29,9 +29,9 @@ Back
 
 ## 🤔 I'm interested in...   
 <div align="center">
-* 🖥️Back-end Development
-* <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-* 🌱Peaceful World
+- 🖥️Back-end Development <br>
+- <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <br>
+- 🌱Peaceful World
 </div>
 
 ## 😄 GitHub stats
