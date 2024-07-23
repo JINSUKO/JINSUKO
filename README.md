@@ -12,7 +12,7 @@ Front
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-</div>
+</div> <br>
 <!--
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black">-->
 <div align="center">
@@ -36,17 +36,19 @@ Back
 
 ## 😄 GitHub stats
 <div align="center">
-[![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show_icons=true&theme=codeSTACKr)]
+  
+![JINSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINSUKO&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=compact)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINSUKO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
 ## 🌱 🔥🔥Been improving solving abilities!
 <div align="center">
-[[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)]
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu90ko)](https://solved.ac/jinsu90ko)
 
-[[![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/jinsuko/)]
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jinsuko?border=0&radius=20theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/jinsuko/)
 </div>
 <!--
 **JINSUKO/JINSUKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
