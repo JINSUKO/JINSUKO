@@ -7,6 +7,7 @@ And, SO PLEASED to participate in the IT!
 ## 🛠 Learning Tech Stacks
 <div align="center">
 Front   
+  <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black">
@@ -16,6 +17,7 @@ Front
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black">-->
 <div align="center">
 Back   
+  <br>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -24,6 +26,7 @@ Back
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </div>
+
 ## 🤔 I'm interested in...   
 <div align="center">
 * 🖥️Back-end Development
